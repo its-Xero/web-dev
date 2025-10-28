@@ -139,9 +139,10 @@ body{
   height: 350px;
   width:100%;
   background-image: url("../img/bigData.png");
-  background-clip: content-box;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  background-clip: content-box;
+  background-position: center 70%;
   margin-bottom: 20px;
   padding-bottom: 100px;
 }
